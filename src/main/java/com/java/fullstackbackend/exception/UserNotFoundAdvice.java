@@ -1,4 +1,4 @@
-package com.codewitharjun.fullstackbackend.exception;
+package com.java.fullstackbackend.exception;
 /* Created by Arjun Gautam */
 
 import org.springframework.http.HttpStatus;

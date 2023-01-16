@@ -1,4 +1,4 @@
-package com.codewitharjun.fullstackbackend;
+package com.java.fullstackbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

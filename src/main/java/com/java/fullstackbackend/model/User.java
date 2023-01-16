@@ -1,4 +1,4 @@
-package com.codewitharjun.fullstackbackend.model;
+package com.java.fullstackbackend.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
